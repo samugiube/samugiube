@@ -3,10 +3,11 @@
 **samugiube/samugiube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 M17
-Year 4 (of 5) at technical school Mario Delpozzo in Cuneo, Italy
 
-Right now, this is a storage of basically every **Python** and **C** code I write at school or at home
-  Thinking about adding **Java**, **HTML** and **JavaScript** (prob will never do that....)
+Year 4 (of 5) at technical school Mario Delpozzo in Cuneo, Italy, where I study computer science
+
+Right now, this is a storage of basically every **Python** and **C** code I write at school or at home.
+Thinking about adding **Java**, **HTML** and **JavaScript** (prob will never do that....)
 
 Currently learning Python, Java and JavaScript
 
