@@ -1,21 +1,15 @@
-## Hi there 👋 
+## Hello everyone!
 
-**samugiube/samugiube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M18
 
-M17
+Year 5 (of 5) at technical school Mario Delpozzo in Cuneo, Italy, where I study computer science.
+_Technically_ it's not a technical school anymore, but I don't care.... :)
 
-Year 4 (of 5) at technical school Mario Delpozzo in Cuneo, Italy, where I study computer science
+This GitHub account is basically a storage of a lot of school stuff. Most of these are **Python**, **C**, **Java**, etc... files written during lessons.
+**But not all of them are**. Some are also personal projects that probably went nowhere and that I should probably delete....
 
-Right now, this is a storage of basically every **Python** and **C** code I write at school or at home.
-Thinking about adding **Java**, **HTML** and **JavaScript** (prob will never do that....)
-
-Currently learning Python, Java and JavaScript
-
-I may add some GDScript if I ever start learning how Godot works....
+At school we learnt how to program in C, Python, Java, JavaScript, HTML (a _tiny_ bit), and we'll soon learn SQL and PHP.
 
  - email: _samuele.giubergia49@gmail.com_
  - phone number: I don't think this is the right place to put it
  - fax: don't have one
-
-The header is staying: if I ever want to add something in `this style` I want to have something to copy it from without searching on Google
-I'm lazy, unless I am not
